@@ -2,5 +2,11 @@
 # out the current state
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 def display_board(board)
+  # Would Print:
+#    |   |   
+# -----------
+#    |   |   
+# -----------
+#    |   |   
 
 end
