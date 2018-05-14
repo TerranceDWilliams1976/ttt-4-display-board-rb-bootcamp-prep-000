@@ -8,4 +8,6 @@ puts"-----------"
 puts"   |   |   "
 puts"-----------"
 puts"   |   |   "
+puts "#{board[0]}"
+
 end
